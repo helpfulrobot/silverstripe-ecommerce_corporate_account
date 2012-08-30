@@ -1,15 +1,17 @@
 ###############################################
-ecommerce group pricing
+Ecommerce Corporate Account
 Pre 0.1 proof of concept
 ###############################################
 
-This module is a must for e-commerce applications
-where the product prices go beyond a straight price
-for each product. For example, if you want to provide
-discounts based on security group of purchaser
-(e.g. staff discounts) or customer country of origin.
+Adds functionality to e-commerce that is typical
+for a corporate account (business to business sales):
 
-It also provides a price list page.
+- purchase order number
+- security groups as companies
+
+In the future we can add more corporate account
+functionality to this module.
+
 
 Developers
 -----------------------------------------------
